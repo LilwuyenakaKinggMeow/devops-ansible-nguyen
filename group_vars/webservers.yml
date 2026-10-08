@@ -1,0 +1,2 @@
+nginx_package: nginx
+site_title: "DevOps Ansible Web Server"
